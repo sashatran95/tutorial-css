@@ -36,22 +36,34 @@ li {
 
 h1 +p {
     font-size: 1rem;
-    line-height: 1.5rem
+    line-height: 1.5rem;
 }
+
 p strong {
+    color: #39F;
+}
+
+strong {
     font-weight: bold;
 }
+
 em {
     font-style:italic;
 }
+
 hr {
     border: solid 4px #F00
 }
-ul {
+
+ul,
+ol {
     background-color: #FFF;
 }
-li {color: #F00:
+
+li {
+    color: #F00;
 }
+
 ol li:first-child {
     backgroud-colour: #000;
 }
