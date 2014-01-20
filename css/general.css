@@ -30,7 +30,7 @@ h1 {
 
 p,
 li {
-    font-size:: 1rem;
+    font-size: 1rem;
     line-height: 1.5rem;
 }
 
@@ -65,8 +65,8 @@ li {
 }
 
 ol li:first-child {
-    backgroud-colour: #000;
+    background-color: #000;
 }
 ol li:last-child {
-    background-colour: #F90;
+    background-color: #F90;
 }
